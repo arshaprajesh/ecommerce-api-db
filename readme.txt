@@ -38,7 +38,7 @@ Tools: Postman, SQLAlchemy Core/ORM
 📦 Installation & Setup
 
 1. Clone the repository
-git clone <your-repo-url>
+https://github.com/arshaprajesh/ecommerce-api-db.git
 cd ecommerce-api
 
 2. Create and activate a virtual environment
